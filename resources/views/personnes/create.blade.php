@@ -15,7 +15,7 @@
         <input type="text" name="matricule" id="matricule" class="form-control"></br>
         <label>Catégorie</label></br>
         <select name='categorie' class="form-select" aria-label="Default select example">
-          <option value="CELLULE">CELLULE</option>
+          <option value="CELLULE">CELLULES</option>
           <option value="PRESSE">PRESSE</option>
           <option value="PARTICIPANT">PARTICIPANT</option>
           <option value="SANTE">SANTE</option>
